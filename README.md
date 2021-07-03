@@ -1,2 +1,0 @@
-# satyam-thapa
-own website
